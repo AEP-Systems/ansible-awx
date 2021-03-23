@@ -2,9 +2,7 @@
 
 [English](/README.md)
 
-**AWX Automatic Installer**, developed by [Websoft9](https://www.websoft9.com), is an automatic installation program of [AWX](https://github.com/ansible/awx) based on Ansible. It helps users install AWX and pre-configure required items automatically and users only need to run a command on Linux. It simplifies the complicated installation and initialization process.  
-
-![](https://libs.websoft9.com/Websoft9/DocsPicture/en/awx/awxui-websoft9.png)
+**AWX Automatic Installer**, is an automatic installation program of [AWX](https://github.com/ansible/awx) based on Ansible. It helps users install AWX and pre-configure required items automatically and users only need to run a command on Linux. It simplifies the complicated installation and initialization process.  
 
 ## System Requirement
 
